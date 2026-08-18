@@ -1,0 +1,13 @@
+{
+  "name": "ai-workshop-demo",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Demo repository for a Claude Code hands-on workshop (Session 1: agentic loop, CLAUDE.md, Plan Mode).",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
